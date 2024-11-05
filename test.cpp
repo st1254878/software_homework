@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout<<"this is a testing branch program!\n";
+	cout<<"this is a main branch program!\n";
 }
